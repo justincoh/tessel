@@ -1,9 +1,10 @@
 ##Tessel Door Monitor
 
-I bought a [tessel] to play around with, and am using the accelerometer module to make a monitor for my apartment door.  Tessel = node for hardware.  
+I bought a [tessel] to play around with, and am using the accelerometer module to spy on my sister's dog walkers for her; she doesn't think Charlie gets out enough.  
 
 ---
-This is the full code for the hello world/light blinking project:
+Tessel = node for hardware.  
+This is the full code for charlieTessel/blinky.js:
 
 ```
 var tessel = require('tessel');
