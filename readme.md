@@ -4,7 +4,7 @@ I bought a [tessel] to play around with, and am using the accelerometer module t
 
 ---
 Tessel = node for hardware.  
-This is the full code for charlieTessel/blinky.js:
+This is the full code for blinky.js:
 
 ```
 var tessel = require('tessel');
