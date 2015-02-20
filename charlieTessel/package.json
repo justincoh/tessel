@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ambient-attx4": "^0.2.4",
     "lodash": "^3.0.0",
     "request": "^2.51.0",
     "underscore": "^1.7.0"
